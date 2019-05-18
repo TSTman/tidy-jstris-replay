@@ -1,2 +1,2 @@
-# tidy-jstris-replay
+# Tidy Jstris Replay
 This makes Jstris replays look tidier.
